@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions.Voicemail", "Functions.Voicemail\Functions.Voicemail.csproj", "{D486EA6B-77B0-4D8D-9961-C5CF0E424F33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D486EA6B-77B0-4D8D-9961-C5CF0E424F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D486EA6B-77B0-4D8D-9961-C5CF0E424F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D486EA6B-77B0-4D8D-9961-C5CF0E424F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D486EA6B-77B0-4D8D-9961-C5CF0E424F33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25DCCCFD-3B67-46D2-8E2F-8C7EF3B5B765}
+	EndGlobalSection
+EndGlobal
